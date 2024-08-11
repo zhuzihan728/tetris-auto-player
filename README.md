@@ -1,5 +1,5 @@
 # Tetris AI
-![tetris](assets/tetris.gif)
+![tetris](assets/tetris.gif)<br>
 This is a Tetris AI that uses weighted features to determine the best move to make. 
 Weights learning refers to [PSO](https://karrui.dev/docs/ai-tetris-report.pdf). 
 
