@@ -1,0 +1,7 @@
+name: tetris
+channels:
+  - defaults
+dependencies:
+  - python
+  - pip:
+    - pygame
